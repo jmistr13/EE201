@@ -1,0 +1,17 @@
+Annotated +9V as #PWR01.
+Annotated GND as #PWR02.
+Annotated +9V as #PWR03.
+Annotated +9V as #PWR04.
+Annotated +9V as #PWR05.
+Annotated GND as #PWR06.
+Annotated C as C1.
+Annotated C_Polarized as C2.
+Annotated LED as D1.
+Annotated LED as D2.
+Annotated Conn_01x02_Male as J1.
+Annotated R as R1.
+Annotated R as R2.
+Annotated R as R3.
+Annotated R as R4.
+Annotated NE555D as U1.
+Annotation complete.
