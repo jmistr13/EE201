@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-F_Cu.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-B_Cu.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-F_Paste.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-B_Paste.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-F_Mask.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-B_Mask.gbr'.
+Plotted to 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Jesse Mistr\Desktop\EE201\lab4\exerciseII-job.gbrjob'.
+Info: Done.
